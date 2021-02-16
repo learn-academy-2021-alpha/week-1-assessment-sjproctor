@@ -7,17 +7,16 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is a function? Why would you use one?
 
-  Your answer: answers!
+  Your answer:
 
-  Researched answer:
-more answers
+  Researched answer: Set of instructions detailing how to do a task, reusable
 
 
 2. What is the difference between .map() and .filter()?
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Higher-order functions, map returns an array the same length, filter returns a subset
 
 
 
@@ -25,7 +24,7 @@ more answers
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Console log prints the answer in the terminal, return is the result of a function - does not show the output in terminal unless console.logged
 
 
 
@@ -33,7 +32,7 @@ more answers
 
   Your answer:
 
-  Researched answer:
+  Researched answer: value that has to be provided to the function, input
 
 
 
@@ -41,7 +40,7 @@ more answers
 
   Your answer:
 
-  Researched answer:
+  Researched answer: agile technique, one computer, two people, driver is typing, navigator is determining the path, helping to avoid errors, switch roles often
 
 
 
@@ -49,7 +48,7 @@ more answers
 
   Your answer:
 
-  Researched answer:
+  Researched answer: looping through each value in an array
 
 
 
@@ -57,7 +56,7 @@ more answers
 
   Your answer:
 
-  Researched answer:
+  Researched answer: advantage - functionality, speed, automation, disadvantage - ease of use
 
 
 
@@ -71,9 +70,9 @@ more answers
 
 Research and define the following terms to the best of your ability.
 
-- Jest
-- Test Driven Development
-- Classes
-- React
-- React State
-- CRUD
+- Jest - test runner in JavaScript, maintained by facebook
+- Test Driven Development - testing software before it is written
+- Classes - blueprint for objects, contains data and methods
+- React - JavaScript library for creating UI
+- React State - built in object in React
+- CRUD - create, read, update, delete
